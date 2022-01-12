@@ -10,7 +10,6 @@ Contents of this file
  * [Contributers](#contributers)
  * [License](#license)
 
-
 Project Description
 ------------
 After the breakout of the worldwide pandemic COVID-19, there arises a severe need of protection mechanisms, face masks being a primary one. The basic aim of this project is to detect the presence of a face mask on human faces on live streaming video. We have used deep learning to develop our face detector model. We have used basic concepts of transfer learning in neural networks to finally output the presence or absence of a face mask in a video stream. Experimental results show that our model performs well on the test data with 100% and 99% precision and recall, respectively.
@@ -19,6 +18,9 @@ This application is able to:
   1.  Detect multiple faces through the webcam
   2.  Process and detect face masks
   3.  Show result accuracy 
+
+
+![image](https://user-images.githubusercontent.com/76821973/149188082-deac3691-8d75-4f3b-baef-dc84dc2cb2dc.png)
 
 
 Built with
