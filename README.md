@@ -65,5 +65,5 @@ This project owes its completion to the sheer hard work and untiring efforts of 
 
 License
 ------------
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information
 
